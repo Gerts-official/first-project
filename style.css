@@ -1,0 +1,17 @@
+.body{
+    background-color:rgb(77, 151, 151);
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    font-family: sans-serif;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    padding: 0 300px;
+    font-size: 30px;
+}
